@@ -455,3 +455,7 @@ homedesc
     text-decoration: underline;
   }
 }
+
+a:-webkit-any-link {
+    text-decoration: none !important;
+}
