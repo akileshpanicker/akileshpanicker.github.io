@@ -456,6 +456,7 @@ homedesc
   }
 }
 
-a:-webkit-any-link {
-    text-decoration: none !important;
+.handle1
+{
+  text-decoration: none !important; 
 }
